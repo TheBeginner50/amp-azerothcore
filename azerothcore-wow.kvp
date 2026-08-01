@@ -8,6 +8,7 @@ Meta.DockerRequired=False
 Meta.ContainerPolicy=Supported
 Meta.AppConfigId=d5057bde-27be-41d2-a53c-79d4e74bb017
 Meta.OS=2
+Meta.DisplayImageSource=url:https://www.azerothcore.org/images/logo.png
 Meta.ConfigManifest=azerothcore-wowconfig.json
 Meta.MetaConfigManifest=azerothcore-wowmetaconfig.json
 Meta.ConfigRoot=azerothcore-wow.kvp
