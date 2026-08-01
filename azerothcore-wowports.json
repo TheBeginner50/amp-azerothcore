@@ -2,15 +2,15 @@
     {
         "Protocol": "TCP",
         "Port": "8085",
-        "Name": "Main Game Port",
+        "Name": "",
         "Description": "Port used for main game traffic",
-        "Ref": "MainGamePort"
+        "Ref": ""
     },
     {
         "Protocol": "TCP",
         "Port": "3724",
-        "Name": "AuthServer",
+        "Name": "",
         "Description": "Port used for main game traffic",
-        "Ref": "AuthServer"
+        "Ref": ""
     }
 ]

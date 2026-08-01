@@ -1,9 +1,10 @@
 {
-    "id": "azerothcore-wow",
+    "id": "c078cad9-1b23-44a7-99b5-f58b6fa34dd5",
     "authors": [
-        "TheBeginner"
+        "TheBeginner - Made with AMP Config Generator"
     ],
-    "origin": "https://github.com/TheBeginner50/amp-azerothcore.git",
-    "url": "https://github.com/TheBeginner50/amp-azerothcore",
-    "prefix": "CUSTOM"
+    "origin": "https://github.com/TheBeginner - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/TheBeginner - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "TheBeginner - Made with AMP Config Generator"
 }
