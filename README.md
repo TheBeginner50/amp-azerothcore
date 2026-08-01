@@ -1,0 +1,2 @@
+# amp-azerothcore
+amp-azerothcore
